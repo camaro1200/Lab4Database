@@ -1,0 +1,11 @@
+/Users/paulshaburov/Documents/DatabaseLab4/DBLab4/bin/Debug/DBLab4.exe.config
+/Users/paulshaburov/Documents/DatabaseLab4/DBLab4/bin/Debug/DBLab4.exe
+/Users/paulshaburov/Documents/DatabaseLab4/DBLab4/bin/Debug/DBLab4.pdb
+/Users/paulshaburov/Documents/DatabaseLab4/DBLab4/bin/Debug/MySql.Data.dll
+/Users/paulshaburov/Documents/DatabaseLab4/DBLab4/obj/Debug/DBLab4.csprojAssemblyReference.cache
+/Users/paulshaburov/Documents/DatabaseLab4/DBLab4/obj/Debug/DBLab4.exe.config
+/Users/paulshaburov/Documents/DatabaseLab4/DBLab4/obj/Debug/DBLab4.csproj.CopyComplete
+/Users/paulshaburov/Documents/DatabaseLab4/DBLab4/obj/Debug/DBLab4.exe
+/Users/paulshaburov/Documents/DatabaseLab4/DBLab4/obj/Debug/DBLab4.pdb
+/Users/paulshaburov/Documents/DatabaseLab4/DBLab4/bin/Debug/Dapper.dll
+/Users/paulshaburov/Documents/DatabaseLab4/DBLab4/bin/Debug/Dapper.xml
